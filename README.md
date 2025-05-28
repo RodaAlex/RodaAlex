@@ -25,22 +25,11 @@
 ---
 
 ## 📫 Let’s Connect!
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/roda-alex)
-
+</p>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🕹️ Play DOOM in Your Browser!
-
-<p align="center">
-  <a href="https://js-dos.com/games/doom.exe.html" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20DOOM-Click%20Here!-yellow?style=for-the-badge&logo=doom&logoColor=red" alt="Play DOOM" />
-  </a>
-</p>
-
-<p align="center">
-  <sub><i>Yes, you can play DOOM right in your browser! 🔥</i></sub>
-</p>
