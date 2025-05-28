@@ -25,9 +25,9 @@
 ---
 
 ## 📫 Let’s Connect!
-<p align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/roda-alex)
-</p>
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
